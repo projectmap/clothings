@@ -1,0 +1,12 @@
+body{
+  font-family: "open sans condensed";
+  background:linear-gradient(#d8e2f3,#4f6ea1);
+
+}
+a{
+ text-decoration: none;
+color:  black; 
+}
+*{
+  box-sizing: border-box;
+}
