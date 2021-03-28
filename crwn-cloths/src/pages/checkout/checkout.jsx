@@ -14,7 +14,7 @@ const CheckOut=({cartselect,totalprice})=>{
         <div className="checkout-page">
         <div className="checkout-header">
             <div className="header-block">
-                <span>products</span>
+                <span>product</span>
                 </div>
                 <div className="header-block">
                 <span>description</span> 
