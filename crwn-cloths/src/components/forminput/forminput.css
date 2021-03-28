@@ -1,0 +1,32 @@
+.input{
+    width: 30vw;
+    height: 9vh;
+    margin-top: 10px;
+    margin-left: 20px;
+    border-style:ridge;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    margin-bottom: 10px;
+}
+
+.input:placeholder-shown{
+    border-top-style: none;
+}
+.group{
+    display: flex;
+    flex-direction: column;
+}
+.normform{
+    margin-left: 20px;
+}
+.shrinkform{
+ margin-left: 20px;
+ width: 50px;
+ height: 30px;
+
+
+}
+
+
+

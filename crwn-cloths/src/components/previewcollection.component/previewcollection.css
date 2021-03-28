@@ -1,0 +1,39 @@
+.preview{
+    width: 93%;
+    margin: 30px 30px 30px 30px;
+    display: flex;
+}
+.titlepreview{
+   text-align: left top;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+  
+    height: fit-content;
+    flex-wrap: wrap;
+    
+}
+.itemcollection{
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+    height:250;
+    
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    
+}
+.headings{
+    font-size: 30px;
+    font-weight: 900;
+    width: 100%;
+}
+.items{
+    width: 22%;
+    height: 250px;
+   
+    flex-grow: 1;
+    border:solid black;
+}

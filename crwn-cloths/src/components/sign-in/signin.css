@@ -1,0 +1,22 @@
+.signin{
+    width: fit-content;
+    height: 80vh;
+    border: solid;
+    margin-left: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between
+}
+.toptext{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.lowertext{
+    margin-top: 5px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-weight: 900;
+}
